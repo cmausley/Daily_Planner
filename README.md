@@ -13,4 +13,4 @@ Daily_Planner_Homework
 3. Shifts colors for past, present, and future.
 
 *JAVASCRIPT*
-1. 
+1. (All notes laid out step by step in script.js)
